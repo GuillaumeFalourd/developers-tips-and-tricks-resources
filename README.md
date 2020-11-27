@@ -2,7 +2,9 @@
 
 ## Contributing
 
-You're welcome to add some cheat sheets on the repository.
+You're welcome to add new cheat sheets on the repository.
+
+Please, respect the following recommendations:
 
 ### New features for the project
 
