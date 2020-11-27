@@ -1,4 +1,4 @@
-# Repository with various developers cheat-sheets
+# Developers cheat-sheets
 
 ## Contributing
 
@@ -6,8 +6,8 @@ You're welcome to add some cheat sheets on the repository.
 
 ### New features for the project
 
-**Always base your work on the project's `master` branch, naming your new branch
-according to the following guide :**
+Always base your work on the project's `master` branch, naming your new branch
+according to the following guide:
 
 ![Rit branchs](/docs/img/git-branchs.png)
 
