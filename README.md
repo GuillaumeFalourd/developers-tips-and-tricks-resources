@@ -11,7 +11,7 @@ according to the following guide:
 
 ![Rit branchs](/docs/img/git-branchs.png)
 
-**Examples : `feature/name` or `fix/name`**
+**Examples: `feature/name` or `fix/name`**
 
 ### Guidelines
 
