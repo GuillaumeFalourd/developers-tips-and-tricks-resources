@@ -1,4 +1,4 @@
-# Developers cheat-sheets repository
+# Developers cheat sheets repository
 
 ## Contributing
 
