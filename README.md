@@ -15,7 +15,7 @@ according to the following guide:
 
 ### Guidelines
 
-- Cheat sheets must written be in english.
+- Cheat sheets should be written in English.
 
 - Only PDF, JPG or PNG format files are accepted.
 
