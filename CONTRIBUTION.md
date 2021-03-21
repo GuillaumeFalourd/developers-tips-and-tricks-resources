@@ -13,8 +13,8 @@ according to the following guide:
 
 ## Guidelines
 
-- Tips should be written in English or Portuguese.
+- Contents should be written in English or Portuguese.
 
-- Only PDF, JPG or PNG format files are accepted.
+- Only Markdown, PDF, JPG or PNG format files are accepted.
 
 - You can create new folders or rename the existing ones if necessary.
