@@ -12,7 +12,7 @@ _A **mind map** is a diagram used to visually organize information. A mind map i
 
 - [Tips](https://github.com/GuillaumeFalourd/developers-tips/tree/master/tips)
 
-_A **tip** is a nifty way to do an activity. For example by simplifying a process or an operation that is far more complex to perform. _
+_A **tip** is a nifty way to do an activity. For example by simplifying a process or an operation that is far more complex to perform._
 
 ## Contributing
 
