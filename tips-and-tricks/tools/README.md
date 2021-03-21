@@ -2,6 +2,6 @@
 
 ## Sections
 
-- [Github 1s](https://github.com/GuillaumeFalourd/developers-tips/tree/master/tips/tools/github1s)
+- [Github 1s](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tips-and-tricks/tools/github1s)
 
-- [Selectext](https://github.com/GuillaumeFalourd/developers-tips/tree/master/tips/tools/selectext)
+- [Selectext](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tips-and-tricks/tools/selectext)

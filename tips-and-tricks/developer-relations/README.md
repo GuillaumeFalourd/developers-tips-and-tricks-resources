@@ -2,9 +2,9 @@
 
 ## Sections
 
-- [PT](https://github.com/GuillaumeFalourd/developers-tips/tree/master/developer-relations/PT)
+- [PT](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tips-and-tricks/developer-relations/PT)
 
-- [EN](https://github.com/GuillaumeFalourd/developers-tips/tree/master/developer-relations/EN)
+- [EN](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tips-and-tricks/developer-relations/EN)
 
 ## DevRel references
 
