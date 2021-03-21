@@ -10,9 +10,9 @@ _A **cheat sheet** is a concise set of notes used for quick reference. Cheat she
 
 _A **mind map** is a diagram used to visually organize information. A mind map is hierarchical and shows relationships among pieces of the whole. Mind maps can also be drawn by hand, either as "notes" during a lecture, meeting or planning session, for example, or as higher quality pictures when more time is available._
 
-- [Tips](https://github.com/GuillaumeFalourd/developers-tips/tree/master/tips)
+- [Tips and Tricks](https://github.com/GuillaumeFalourd/developers-tips/tree/master/tips-and-tricks)
 
-_A **tip** is a nifty way to do an activity. A tip generally simplify a process or an operation that is complex to perform._
+_**Tips and Tricks** are nifty ways to do activities. They generally simplify a process or an operation that is complex to perform._
 
 ## Contributing
 
