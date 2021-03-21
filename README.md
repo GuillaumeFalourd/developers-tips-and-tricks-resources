@@ -1,4 +1,4 @@
-![title](/docs/img/tips-for-developers.png)
+![title](/docs/img/repository-title.png)
 
 ## Sections
 
