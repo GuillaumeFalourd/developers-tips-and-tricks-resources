@@ -1,22 +1,13 @@
-# Developers cheat sheets repository
+# Tips for Developers
+
+## Sections
+
+- [Cheat Sheets](https://github.com/GuillaumeFalourd/developers-tips/tree/master/cheat-sheets)
+
+- [Mind Maps](https://github.com/GuillaumeFalourd/developers-tips/tree/master/mind-maps)
+
+- [Tips](https://github.com/GuillaumeFalourd/developers-tips/tree/master/tips)
 
 ## Contributing
 
-You're welcome to add some cheat sheets on the repository.
-
-### New features for the project
-
-**Always** base your work on the project's `master` branch, naming your new branch
-according to the following guide:
-
-![branchs](/docs/img/git-branchs.png)
-
-**Examples: `feature/name` or `fix/name`**
-
-### Guidelines
-
-- Cheat sheets should be written in English.
-
-- Only PDF, JPG or PNG format files are accepted.
-
-- You can create new folders or rename the existing ones if necessary.
+Check our [CONTRIBUTION file](https://github.com/GuillaumeFalourd/developers-tips/tree/master/CONTRIBUTION.md) to see how to contribute to the repository with new contents.
