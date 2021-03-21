@@ -10,4 +10,4 @@
 
 ## Contributing
 
-Check our [CONTRIBUTION file](https://github.com/GuillaumeFalourd/developers-tips/tree/master/CONTRIBUTION.md) to see how to contribute to the repository with new contents.
+Check the [CONTRIBUTION file](https://github.com/GuillaumeFalourd/developers-tips/tree/master/CONTRIBUTION.md) to see the guidelines if you with to contribute with new contents.
