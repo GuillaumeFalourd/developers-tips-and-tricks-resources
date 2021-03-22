@@ -1,5 +1,9 @@
 ![title](/docs/img/repository-title.png)
 
+## Summary
+
+In this repository, you'll find many useful contents for developers. From cheat sheets to mind maps for many technoloies and tools with tips and tricks to streamline day-to-day work.
+
 ## Sections
 
 - [Cheat Sheets](https://github.com/GuillaumeFalourd/developers-tips/tree/master/cheat-sheets)
