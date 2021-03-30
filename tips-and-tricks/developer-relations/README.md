@@ -21,3 +21,4 @@
 - [7 Tips for DevRel](https://dev.to/dabit3/7-tips-for-breaking-into-devrel-7jk)
 - [Acing a DevRel interview](https://thagomizer.com/blog/2019/10/11/acing-the-devrel-interview.html)
 - [DevRel Team](https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer)
+- [The DevRel path to Success](https://www.marythengvall.com/blog/2021/3/9/the-devrel-path-to-success-awareness-enablement-engagement)
