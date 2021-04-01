@@ -1,5 +1,7 @@
 # Developer Relations Tips
 
+![3-Functions-of-Developer-Relations.png](/docs/img/3-Functions-of-Developer-Relations.png)
+
 ## Sections
 
 - [PT](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tips-and-tricks/developer-relations/PT)
