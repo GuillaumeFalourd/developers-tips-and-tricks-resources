@@ -1,4 +1,4 @@
-# Dicas de estudos
+# Referências
 
 ## Sites com desafios de programação
 
