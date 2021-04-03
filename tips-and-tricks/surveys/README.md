@@ -19,7 +19,7 @@ It's important to know information and get data about the current state of the I
 - [IT Market Research Survey](https://www.inboundlogistics.com/cms/article/2020-logistics-it-market-research-survey/)
 - [+50yo Tech Survey](https://www.aarp.org/content/dam/aarp/research/surveys_statistics/technology/2019/2020-tech-trends-survey.doi.10.26419-2Fres.00329.001.pdf)
 
-## 2019 []()
+## 2019
 
 - [StackOverflow Survey](https://insights.stackoverflow.com/survey/2021)
 - [IT Security Survey](https://www.av-comparatives.org/surveys/it-security-survey-2020/)

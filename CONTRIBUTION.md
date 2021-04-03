@@ -13,7 +13,7 @@ according to the following guide:
 
 ## Guidelines
 
-- Contents should be written in English or Portuguese.
+- Contents should be written in English.
 
 - Only Markdown, PDF, JPG or PNG format files are accepted.
 

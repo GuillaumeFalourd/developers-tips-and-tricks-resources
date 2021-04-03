@@ -2,12 +2,6 @@
 
 ![3-Functions-of-Developer-Relations.png](/docs/img/3-Functions-of-Developer-Relations.png)
 
-## Sections
-
-- [PT](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tips-and-tricks/developer-relations/PT)
-
-- [EN](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tips-and-tricks/developer-relations/EN)
-
 ## DevRel references
 
 ### Sites
