@@ -4,7 +4,6 @@
 
 - codewars.com
 - hackerrank.com
-- urionlinejudge.com.br
 - topcoder.com
 - hackerearth.com
 - leetcode.com
@@ -12,6 +11,7 @@
 - codeforce.com
 - spoj.com
 - codingame.com
+- freecodecamp.org
 
 ## Sites for Q&A
 
@@ -23,6 +23,11 @@
 - codeproject.com
 - programmersheaven.com
 - coderanch.com
+
+## Sites for IT contents
+
+- stackify.com
+- hackernoon.com
 
 ## Youtube channels
 
