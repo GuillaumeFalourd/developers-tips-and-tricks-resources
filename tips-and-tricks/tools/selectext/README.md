@@ -8,4 +8,4 @@ A great tool to copy texts from Youtube videos.
 
 ## Sample
 
-![Selectext](/docs/gif/selectext.gif)
+![Selectext](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/blob/master/docs/gif/Selectext.gif)
