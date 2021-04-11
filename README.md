@@ -20,4 +20,6 @@ _**Tips and Tricks** are nifty ways to do activities. They generally simplify a 
 
 ## Contributing
 
-Check the [CONTRIBUTION file](https://github.com/GuillaumeFalourd/developers-tips/tree/master/CONTRIBUTION.md) to see the guidelines if you with to contribute with new contents.
+Check the [CONTRIBUTION file](https://github.com/GuillaumeFalourd/developers-tips/tree/master/CONTRIBUTION.md) to see the guidelines if you wish to contribute with new contents.
+
+## Found this repository useful? 👉 ⭐️
