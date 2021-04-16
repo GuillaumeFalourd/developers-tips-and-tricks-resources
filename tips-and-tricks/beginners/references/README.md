@@ -11,37 +11,37 @@
 
 ## Sites with programming challenges
 
-- codewars.com
-- hackerrank.com
-- topcoder.com
-- hackerearth.com
-- leetcode.com
-- codechef.com
-- codeforce.com
-- spoj.com
-- codingame.com
-- freecodecamp.org
+- [Codewars](codewars.com)
+- [Hackerrank](hackerrank.com)
+- [Topcoder](topcoder.com)
+- [Hackerearth](hackerearth.com)
+- [Leetcode](leetcode.com)
+- [Codechef](codechef.com)
+- [Codeforce](codeforce.com)
+- [Spoj](spoj.com)
+- [Codingame](codingame.com)
+- [Freecodecamp](freecodecamp.org)
 
 ## Sites for Q&A
 
-- stackoverflow.com
-- quora.com
-- github.com
-- reddit.com
-- stackexchange.com
-- codeproject.com
-- programmersheaven.com
-- coderanch.com
+- [Stackoverflow](stackoverflow.com)
+- [Quora](quora.com)
+- [Github](github.com)
+- [Reddit](reddit.com)
+- [Stackexchange](stackexchange.com)
+- [Codeproject](codeproject.com)
+- [Programmersheaven](programmersheaven.com)
+- [Coderanch](coderanch.com)
 
 ## Sites for IT contents
 
-- stackify.com
-- hackernoon.com
+- [Stackify](stackify.com)
+- [Hackernoon](hackernoon.com)
 
 ## Youtube channels
 
-- TODO
+- *TODO*
 
 ## Podcasts
 
-- TODO
+- *TODO*
