@@ -18,6 +18,7 @@ It's important to know information and get data about the current state of the I
 - [HR Tech Survey](https://www.pwc.com/us/en/services/consulting/workforce-of-the-future/library/hr-tech-survey.html)
 - [IT Market Research Survey](https://www.inboundlogistics.com/cms/article/2020-logistics-it-market-research-survey/)
 - [+50yo Tech Survey](https://www.aarp.org/content/dam/aarp/research/surveys_statistics/technology/2019/2020-tech-trends-survey.doi.10.26419-2Fres.00329.001.pdf)
+- [Jetbrains Python Developers Survey](https://www.jetbrains.com/lp/python-developers-survey-2020/)
 
 ## 2019
 
