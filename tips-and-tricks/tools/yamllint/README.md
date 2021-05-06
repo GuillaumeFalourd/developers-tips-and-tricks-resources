@@ -8,4 +8,4 @@ yamllint does not only check for syntax validity, but for weirdnesses like key r
 
 ## Sample
 
-![Yaml Lint](/docs/img/readme.so.png)
+![Yaml Lint](/docs/img/yamllint.png)
