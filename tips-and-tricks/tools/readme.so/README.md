@@ -1,11 +1,11 @@
 # README.so
 
-A great tool to write README files.
+The easiest way to create a README file.
 
 ## Get started
 
 [README.so editor](https://readme.so/editor)
 
-## Visual
+## Sample
 
 ![README.so](/docs/img/readme.so.png)
