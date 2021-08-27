@@ -8,6 +8,6 @@ https://user-images.githubusercontent.com/22433243/117706063-37453480-b1a3-11eb-
 
 ![Github](/docs/img/github.com.png)
 
-## After
+## AFter
 
 ![Github1s](/docs/img/github1s.com.png)
