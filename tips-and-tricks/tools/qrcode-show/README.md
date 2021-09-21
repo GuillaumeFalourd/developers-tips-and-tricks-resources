@@ -1,11 +1,11 @@
-# Grid Snake
+# QRCode Show
 
-A Github Actions to generate a Github contribution grid snake in SVG or GIF to customize your Github profile.
+Generate QR code easily for free - QR Code Generation as a Service
 
 ## Repository
 
-[Github Contribution Grid Snake](https://github.com/Platane/snk)
+[Github qrcode.show](https://github.com/sayanarijit/qrcode.show)
 
 ## Sample
 
-![Grid Snake](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/blob/master/docs/gif/github-contribution-grid-snake.gif)
+https://user-images.githubusercontent.com/22433243/134179031-5472b2fc-4329-4ff4-85ee-fbe13fd6134a.mp4
