@@ -2,6 +2,10 @@
 
 It's important to know information and get data about the current state of the IT world and its evolution. Here are some reports and surveys that might help to get some of them.
 
+## 2022
+
+- [Developer Nation Report](https://developernation.net/developer-reports/dn21)
+
 ## 2021
 
 - [StackOverflow Developers Survey](https://insights.stackoverflow.com/survey/2021)
