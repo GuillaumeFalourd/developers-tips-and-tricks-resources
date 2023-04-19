@@ -2,9 +2,17 @@
 
 It's important to know information and get data about the current state of the IT world and its evolution. Here are some reports and surveys that might help to get some of them.
 
+## 2023
+
+- [DevOps Benchmarking Study](https://humanitec.com/whitepapers/devops-benchmarking-study-2023)
+- [STate of Platform Engineering (Puppet)](https://www.puppet.com/resources/state-of-platform-engineering)
+
 ## 2022
 
 - [Developer Nation Report](https://developernation.net/developer-reports/dn21)
+- [StackOverflow Developers Survey](https://survey.stackoverflow.co/2022/)
+- [State of DevOps (Google)](https://services.google.com/fh/files/misc/2022_state_of_devops_report.pdf)
+- [State of Devops Automation (Transposit)](https://www.transposit.com/download/transposit-state-of-devops-automation-2022-report.pdf)
 
 ## 2021
 
@@ -12,6 +20,7 @@ It's important to know information and get data about the current state of the I
 - [Digital Report](https://datareportal.com/reports/digital-2021-global-overview-report)
 - [IT Security Survey](https://www.av-comparatives.org/surveys/it-security-survey-2021/)
 - [State of IT](https://swzd.com/resources/state-of-it/)
+- [State of Devops (BMC)](https://blogs.bmc.com/state-of-devops/?print-posts=pdf)
 
 ## 2020
 
