@@ -13,3 +13,5 @@
 - [README.so](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tree/master/tips-and-tricks/tools/readme.so): The easiest way to create a README file.
 
 - [Yaml Lint](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tree/master/tips-and-tricks/tools/yamllint): A CLI linter for YAML files.
+
+- [BestJSON](https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources/tree/master/tips-and-tricks/tools/bestjson): Browser-local JSON formatting, validation, repair previews and structural comparison.
